@@ -13,3 +13,48 @@ html {
 
   /* Style for the Portfolio section - by Deb Banerjee (@debu2code)*/
   
+/* Style for the Portfolio section - by Deb Banerjee (@debu2code)*/
+    
+ +.portfolio-1 {
+ +	margin: 30px;
+ +	height: 450px;
+ +	overflow: hidden;
+ +	transition: height 2s ease;
+ +	-webkit-transition: height 2s ease-out;
+ +  	-moz-transition: height 2s ease-out;
+ +  	-o-transition: height 2s ease-out;
+ +}
+ +
+ +.portfolio-1:hover {
+ +	height: auto;
+ +}
+ +
+ +.portfolio-2 {
+ +	height: 450px;
+ +	overflow: hidden;
+ +}
+ +
+ +.portfolio-2:hover {
+ +	height: auto;
+ +	transition: all 200ms ease;
+ +}
+ +
+ +.portfolio-3 {
+ +	height: 450px;
+ +	overflow: hidden;
+ +}
+ +
+ +.portfolio-3:hover {
+ +	height: auto;
+ +	transition: all 200ms ease;
+ +}
+ +
+ +.portfolio-4 {
+ +	height: 450px;
+ +	overflow: hidden;
+ +}
+ +
+ +.portfolio-4:hover {
+ +	height: auto;
+ +	transition: all 200ms ease;
+ +}
