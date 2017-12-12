@@ -1,0 +1,70 @@
+
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit; }
+
+body {
+  box-sizing: border-box;
+  overflow: auto; }
+
+html {
+  font-size: 62.5%; }
+
+  /* Style for the Portfolio section - by Deb Banerjee (@debu2code)*/
+  
+/* Style for the Portfolio section - by Deb Banerjee (@debu2code)*/
+  section.portfolio {
+  	background-image: url("../img/Mountains.jpg");
+  	background-color: #00bbaa;
+  	background-repeat: no-repeat;
+  	background-position: center;
+  	background-attachment: fixed;
+  }
+
+ .portfolio-1 {
+ 	margin: 30px;
+ 	height: 450px;
+ 	overflow: hidden; 	
+ }
+ 
+ .portfolio-1:hover {
+ 	height: auto;
+ 	overflow: hidden;
+ }
+ 
+ .portfolio-2 {
+ 	margin: 30px;
+ 	height: 450px;
+ 	overflow: hidden; 	
+ }
+ 
+ .portfolio-2:hover {
+ 	height: auto;
+ 	overflow: hidden;
+ }
+ 
+.portfolio-3 {
+ 	margin: 30px;
+ 	height: 450px;
+ 	overflow: hidden; 	
+ }
+ 
+ .portfolio-3:hover {
+ 	height: auto;
+ 	overflow: hidden;
+ }
+ 
+ .portfolio-4 {
+ 	margin: 30px;
+ 	height: 450px;
+ 	overflow: hidden; 	
+ }
+ 
+ .portfolio-4:hover {
+ 	height: auto;
+ 	overflow: hidden;
+ }
+ 
